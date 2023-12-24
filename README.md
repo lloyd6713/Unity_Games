@@ -1,0 +1,1 @@
+Click on each file folder (scripts and scenes) in order to access the scripts and scenes of each file. Then, pick the game by picking the folder and download the contents of each folder. Ex: Scripts/infectionDefense - download all, Scenes/infectionDefense - download all
